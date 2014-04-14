@@ -55,7 +55,7 @@ var ALGOLIA_VERSION = '2.4.6';
  * @param resolveDNS let you disable first empty query that is launch to warmup the service
  * @param hostsArray (optionnal) the list of hosts that you have received for the service
  */
-var AlgoliaSearch = function(applicationID, apiKey, method, resolveDNS, hostsArray) {
+AlgoliaSearch = function(applicationID, apiKey, method, resolveDNS, hostsArray) {
     this.applicationID = applicationID;
     this.apiKey = apiKey;
 
