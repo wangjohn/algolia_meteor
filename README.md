@@ -2,7 +2,13 @@ Algolia Search package for Meteor.
 
 ## Install
 
-Using Meteor's Package System:
+Using Meteorite:
+
+```
+$ mrt add algolia
+```
+
+Or if you don't have Meteorite, you can use Meteor's Package System:
 
 1. Make a new directory named `packages` in the root of your app directory (if needed).
 
@@ -21,12 +27,6 @@ Using Meteor's Package System:
     ```
     $ meteor add algolia
     ```
-
-Using Meteorite:
-
-```
-$ mrt add algolia
-```
 
 ## Usage
 
