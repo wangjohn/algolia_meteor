@@ -1,0 +1,8 @@
+{
+  "name": "algolia",
+  "description": "Algolia Search for Meteor.",
+  "homepage": "https://github.com/wangjohn/algolia_meteor",
+  "author": "John Wang",
+  "version": "2.4.6",
+  "git": "https://github.com/wangjohn/algolia_meteor"
+}
